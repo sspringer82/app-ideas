@@ -14,3 +14,6 @@ It doesn't always have to be a todo list
 11. Pairs
 12. Recipes 
 13. Tic tac toe
+
+## Details will follow
+I'm planning to provide you with some more details on each app idea in the future. So stay tuned...
