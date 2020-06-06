@@ -1,19 +1,23 @@
 # A list of app ideas
-It doesn't always have to be a todo list 
+
+It doesn't always have to be a todo list
+
+## Games
 
 1. Snake
-2. Space Invaders
-3. Math trainer
-4. Calendar
-5. Pomodoro Timer
-6. Address book
-7. Movie ratings
-8. Pacman
-9. Tetris
-10. Battleships
-11. Pairs
-12. Recipes 
-13. Tic tac toe
+1. Space Invaders
+1. Pacman
+1. Bomberman
+1. Tetris
+1. Battleships
+1. Pairs
+1. Tic tac toe
 
-## Details will follow
-I'm planning to provide you with some more details on each app idea in the future. So stay tuned...
+## Stuff
+
+1. Address book
+1. Cook book
+1. Movie DB
+1. Math trainer
+1. Pomodoro timer
+1. Calendar
